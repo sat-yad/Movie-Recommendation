@@ -1,0 +1,13 @@
+prefix=E:/Python_Codes/env/Library
+exec_prefix=E:/Python_Codes/env/Library
+libdir=E:/Python_Codes/env/Library/lib
+sharedlibdir=E:/Python_Codes/env/Library/lib
+includedir=E:/Python_Codes/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small exmaple package for movies recommendation system
+Author: Satyam Yadav
+Author-email: satyadav24@gmail.com
+Requires-Python: >=3.10
+Description-Content-Type: Movie Recommendation System
+
